@@ -2,8 +2,8 @@
     --cor-fundo: #01080E;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-destaque: #df9292;
+    --cor-texto: #f4b0f7;
 }
   
 body {const caixaPrincipal = document.querySelector(".caixa-principal");
